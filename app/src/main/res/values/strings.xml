@@ -1,0 +1,41 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">BaiduAssistant</string>
+    <string name="tv_loading">加载中...</string>
+    <string name="text_infor_manage">信息管理</string>
+    <string name="text_download_manage">下载管理</string>
+    <string name="tv_about_version_app_text">版本号：%s</string>
+    <string name="tv_search_content">餐饮必备“美味不用等”</string>
+    <string name="tv_hot_search">热搜</string>
+    <string name="tv_app_recommend_title_left">餐饮伙伴</string>
+    <string name="tv_app_recommend_title_left_desc">美味不用等美味不用等美味不用等</string>
+    <string name="tv_app_recommend_title_right">休闲神器</string>
+    <string name="tv_app_recommend_title_right_desc">想要玩的好，就选休闲神器......</string>
+    <string name="tv_popular_app_text">人气应用</string>
+    <string name="tv_reccommend_listview_item_title_text">饿了吗</string>
+    <string name="tv_recommend_listview_item_app01_category_text">外卖接单</string>
+    <string name="tv_recommend_listview_item_app02_category_text">会员管理</string>
+    <string name="tv_recommend_listview_item_app03_category_text">排队领号</string>
+    <string name="tv_recommend_listview_item_app_download_start">下载</string>
+    <string name="tv_recommend_listview_item_app_download_pause">暂停</string>
+    <string name="tv_recommend_listview_item_app_download_resume">继续</string>
+    <string name="tv_recommend_listview_item_app_download_upload">更新</string>
+    <string name="tv_recommend_listview_item_app_download_install">安装</string>
+    <string name="tv_recommend_listview_item_app_download_open">打开</string>
+    <string name="tv_listview_item_app_downloadcount_text">258万下载</string>
+    <string name="tv_listview_item_app_size_text">61M</string>
+    <string name="tv_listview_item_app_version_text">26.1.0.5</string>
+    <string name="tv_listview_item_app_shortdesc_text">饿了么是中国专业的网上订餐平台，目前已覆盖北京上海杭州广州等300多个城优质美食</string>
+    <string name="tv_app_current_download_size_text">12.0M/30.10M</string>
+    <string name="tv_app_current_download_speed_text">114.00K/S</string>
+    <string name="home_title_search_prefix">餐饮必备</string>
+    <string name="search_hint">输入想要的应用名称</string>
+    <string name="tv_load_msg_text">很抱歉\n数据加载失败啦</string>
+    <string name="tv_loading_text">请稍后，正在获取数据...</string>
+    <string name="tv_search_hot_word_title_text">热门</string>
+    <string name="search_no_result_tips">亲，没有搜索到结果呢，可以减少点筛选项或者换个关键字再试试哦</string>
+    <string name="search_no_network_tips">亲，网络连接失败，请检查下网络哦</string>
+	<string name="pull_to_loading">正在加载，请稍候...</string>
+    <string name="tv_app_detail_desc_text">《明星斗地主》是一款轻松休闲的创新型斗地主游戏，以《乡村爱情》的故事为背景，再加以小沈阳、刘能、赵四等耳熟能详的明星为原型，辅以真人配音，让你体验跟大明星一起打牌的快感！\r\n【游戏特色】\r\n1、 超炫画面，搞笑配音：变身大明星，夸张搞笑的配音让你越斗越欢乐。\r\n2、 联网竞技，智能单机：联网真人对战，高AI智能单机任你挑。\r\n3、 独特卡牌，独创玩法：偷窥卡、地主卡，超级卡等数10种特色卡片，胜负转瞬间，越斗越刺激。\r\n4、 炸弹在手，胜负难分：斗地主也有血量，胜负不再仅仅是出完牌，有足够的火力，一样可以炸得对手0血倒地。</string>
+
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_search"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/view_margin_90"
+    android:layout_marginTop="@dimen/view_margin_200"
+    android:background="@android:color/transparent"
+    android:paddingBottom="@dimen/view_margin_10"
+    android:paddingLeft="@dimen/view_margin_26"
+    android:paddingRight="@dimen/view_margin_26"
+    android:paddingTop="@dimen/view_margin_10" >
+
+    <EditText
+        android:id="@+id/home_title_search"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/search_banner" />
+    <!-- android:hint="大家都在搜 &quot;陪你上自习&quot;" -->
+
+    <ImageView
+        android:id="@+id/home_title_search_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/home_title_search"
+        android:layout_alignLeft="@id/home_title_search"
+        android:layout_alignTop="@id/home_title_search"
+        android:layout_marginLeft="10dp"
+        android:src="@drawable/search_button" />
+
+    <TextView
+        android:id="@+id/home_title_search_prefix"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/home_title_search_img"
+        android:gravity="center"
+        android:text="@string/home_title_search_prefix"
+        android:textColor="@color/tv_color_999999"
+        android:textSize="@dimen/textsize_30px" />
+
+    <ViewFlipper
+        android:id="@+id/home_title_search_vf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/home_title_search_prefix"
+        android:flipInterval="5000" />
+
+    <View
+        android:layout_width="@dimen/view_margin_1"
+        android:layout_height="@dimen/view_margin_40"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/view_margin_20"
+        android:layout_toLeftOf="@+id/tv_hot_search"
+        android:background="@color/tv_color_69a1fa" />
+
+    <TextView
+        android:id="@+id/tv_hot_search"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/view_margin_20"
+        android:text="@string/tv_hot_search"
+        android:textColor="@color/tv_color_69a1fa"
+        android:textSize="@dimen/textsize_30px" />
+
+</RelativeLayout>

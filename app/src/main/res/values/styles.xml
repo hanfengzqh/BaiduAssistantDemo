@@ -1,0 +1,117 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.    -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.        -->
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    
+	<!--窗体背景，这个背景能在第一时间显示, 避免启动时白屏，黑屏问题-->
+    <style name="LaunchTheme" >
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="NoTitleBar.Fullscreen" parent="@android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <!-- <item name="android:windowIsTranslucent">true</item> -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="exit_style" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="COMMON_DIALOG_TITLE">
+        <item name="android:layout_marginLeft">@dimen/view_margin_40</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/textsize_36px</item>
+        <item name="android:textColor">@color/common_dialog_foot_text_normal</item>
+    </style>
+
+    <style name="recommmend_listview_item_app_category_style">
+        <item name="android:background">@drawable/recommend_listview_item_app_category</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginRight">@dimen/view_margin_10</item>
+        <item name="android:paddingBottom">@dimen/view_margin_1</item>
+        <item name="android:paddingLeft">@dimen/view_margin_4</item>
+        <item name="android:paddingRight">@dimen/view_margin_4</item>
+        <item name="android:paddingTop">@dimen/view_margin_1</item>
+        <item name="android:textColor">@color/common_blue_load_view</item>
+        <item name="android:textSize">@dimen/textsize_16px</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/view_margin_24</item>
+    </style>
+
+    <style name="tv_recommend_listview_app_gray_style">
+        <item name="android:layout_marginRight">@dimen/view_margin_20</item>
+        <item name="android:textColor">@color/tv_color_999999</item>
+        <item name="android:textSize">@dimen/textsize_16px</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="tv_appmanage_download_manage_desc_style">
+        <item name="android:layout_marginLeft">@dimen/view_margin_20</item>
+        <item name="android:layout_marginTop">@dimen/view_margin_14</item>
+        <item name="android:textColor">@color/tv_color_999999</item>
+        <item name="android:textSize">@dimen/textsize_20px</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="tv_common_text_style">
+        <item name="android:layout_marginLeft">@dimen/view_margin_20</item>
+        <item name="android:textColor">@color/common_dialog_foot_text_normal</item>
+        <item name="android:textSize">@dimen/textsize_28px</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+    <style name="tv_common_text24_style">
+        <item name="android:textColor">@color/common_dialog_foot_text_normal</item>
+        <item name="android:textSize">@dimen/textsize_24px</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    
+    <style name="tv_black_28px_style" >
+        <item name="android:layout_marginLeft">@dimen/view_margin_20</item>
+        <item name="android:textSize">@dimen/textsize_28px</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textColor">@color/common_dialog_foot_text_normal</item>
+    </style>
+    
+    <style name="view_line_4style">
+        <item name="android:background">@color/color_category_line</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/view_margin_4</item>
+    </style>
+    
+    <style name="tv_app_title_style" >
+        <item name="android:layout_marginTop">@dimen/view_margin_24</item>
+        <item name="android:textColor">@color/common_blue_load_view</item>
+        <item name="android:textSize">@dimen/textsize_28px</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerHorizontal">true</item>
+    </style>
+    
+</resources>

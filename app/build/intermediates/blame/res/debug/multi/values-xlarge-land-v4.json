@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\values-xlarge-land\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 63,
+                        "endOffset": 115
+                    }
+                }
+            }
+        ]
+    }
+]

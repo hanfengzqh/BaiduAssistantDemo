@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

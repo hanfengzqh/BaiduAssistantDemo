@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/view_margin_140"
+    android:background="@color/color_category_tabs" >
+
+    <ImageView
+        android:id="@+id/iv_app_icon"
+        android:layout_width="@dimen/view_margin_100"
+        android:layout_height="@dimen/view_margin_100"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="@dimen/view_margin_20"
+        android:layout_marginLeft="@dimen/view_margin_20"
+        android:layout_marginRight="@dimen/view_margin_20"
+        android:layout_marginTop="@dimen/view_margin_20"
+        android:background="@drawable/app_icon_default" />
+
+    <LinearLayout
+        android:id="@+id/ll_recommend_listview_item_app_download"
+        android:layout_width="@dimen/view_margin_88"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/view_margin_20"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/iv_recommend_listview_item_app_download"
+            android:layout_width="@dimen/view_margin_88"
+            android:layout_height="@dimen/view_margin_45"
+            android:layout_marginTop="@dimen/view_margin_20"
+            android:background="@drawable/recommend_download_pressed" />
+
+        <TextView
+            android:id="@+id/tv_recommend_listview_item_app_download"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/view_margin_20"
+            android:gravity="center"
+            android:text="@string/tv_recommend_listview_item_app_download_start"
+            android:textColor="@color/common_dialog_foot_text_normal"
+            android:textSize="@dimen/textsize_16px" />
+    </LinearLayout>
+
+    <View
+        android:layout_marginLeft="@dimen/view_margin_20"
+        android:layout_marginRight="@dimen/view_margin_20"
+        android:id="@+id/view_category_line"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view_margin_1"
+        android:layout_alignParentTop="true"
+        android:background="@color/gw_color_listview_divider" />
+
+</RelativeLayout>

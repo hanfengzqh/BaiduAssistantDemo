@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_recom_search.xml",
+        "source": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\src\\main\\res\\layout\\view_recom_search.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\category_grid_item.xml",
+        "source": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\src\\main\\res\\layout\\category_grid_item.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hearder_recom_listview.xml",
+        "source": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\src\\main\\res\\layout\\hearder_recom_listview.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catagory_item.xml",
+        "source": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\src\\main\\res\\layout\\catagory_item.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_search_title.xml",
+        "source": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\src\\main\\res\\layout\\view_search_title.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\core_listview_footer.xml",
+        "source": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\src\\main\\res\\layout\\core_listview_footer.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_recom_data_result.xml",
+        "source": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\src\\main\\res\\layout\\fragment_recom_data_result.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_banner_view.xml",
+        "source": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\src\\main\\res\\layout\\home_banner_view.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_app2_recommend.xml",
+        "source": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\src\\main\\res\\layout\\view_app2_recommend.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recom_popular_listview_item.xml",
+        "source": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\src\\main\\res\\layout\\recom_popular_listview_item.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\title_view_toolbar.xml",
+        "source": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\src\\main\\res\\layout\\title_view_toolbar.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    }
+]

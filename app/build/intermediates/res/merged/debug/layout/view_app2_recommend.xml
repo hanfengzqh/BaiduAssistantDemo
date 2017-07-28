@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:id="@+id/rl_app_recommend_left"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="@dimen/view_margin_20"
+        android:layout_toLeftOf="@+id/view_vertical"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/ll_app_recommend_left"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/view_margin_20"
+            android:layout_marginTop="@dimen/view_margin_20"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_app_recommend_title_left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:lineSpacingExtra="@dimen/view_margin_14"
+                android:text="@string/tv_app_recommend_title_left"
+                android:textColor="@color/common_dialog_foot_text_normal"
+                android:textSize="@dimen/textsize_28px" />
+
+            <TextView
+                android:id="@+id/tv_app_recommend_desc_left"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:lineSpacingExtra="@dimen/view_margin_8"
+                android:maxLines="2"
+                android:text="@string/tv_app_recommend_title_left_desc"
+                android:textColor="@color/tv_color_999999"
+                android:textSize="@dimen/textsize_22px" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/iv_app_recommend_left"
+            android:layout_width="@dimen/view_margin_110"
+            android:layout_height="@dimen/view_margin_110"
+            android:layout_margin="@dimen/view_margin_20"
+            android:background="@drawable/recommend_app_default" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view_vertical"
+        android:layout_width="@dimen/view_margin_2"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"
+        android:background="@color/color_app_recommend_line_vertical" />
+
+    <LinearLayout
+        android:id="@+id/rl_app_recommend_right"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_marginLeft="@dimen/view_margin_20"
+        android:layout_toRightOf="@+id/view_vertical"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:id="@+id/ll_app_recommend_right"
+            android:layout_width="0px"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/view_margin_20"
+            android:layout_marginTop="@dimen/view_margin_20"
+            android:layout_weight="1"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_app_recommend_title_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:lineSpacingExtra="@dimen/view_margin_14"
+                android:text="@string/tv_app_recommend_title_right"
+                android:textColor="@color/common_dialog_foot_text_normal"
+                android:textSize="@dimen/textsize_28px" />
+
+            <TextView
+                android:id="@+id/tv_app_recommend_desc_right"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:lineSpacingExtra="@dimen/view_margin_8"
+                android:maxLines="2"
+                android:text="@string/tv_app_recommend_title_right_desc"
+                android:textColor="@color/tv_color_999999"
+                android:textSize="@dimen/textsize_22px" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/iv_app_recommend_right"
+            android:layout_width="@dimen/view_margin_110"
+            android:layout_height="@dimen/view_margin_110"
+            android:layout_margin="@dimen/view_margin_20"
+            android:background="@drawable/recommend_app_default" />
+    </LinearLayout>
+
+</RelativeLayout>

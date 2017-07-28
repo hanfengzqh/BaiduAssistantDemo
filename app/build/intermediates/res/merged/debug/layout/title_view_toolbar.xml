@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/view_margin_150" >
+
+    <View
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view_margin_150"
+        android:background="@color/common_blue_load_view" />
+
+    <TextView
+        android:id="@+id/title_message"
+        android:layout_width="@dimen/view_margin_88"
+        android:layout_height="@dimen/view_margin_88"
+        android:layout_marginTop="@dimen/view_margin_40"
+        android:drawablePadding="-30px"
+        android:drawableTop="@drawable/recommend_message"
+        android:gravity="center"
+        android:text="@string/text_infor_manage"
+        android:textColor="@color/gw_white"
+        android:textSize="@dimen/textsize_16px" />
+
+    <TextView
+        android:id="@+id/title_download_manage"
+        android:layout_width="@dimen/view_margin_88"
+        android:layout_height="@dimen/view_margin_88"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="@dimen/view_margin_40"
+        android:drawablePadding="-30px"
+        android:drawableTop="@drawable/recommend_download_management"
+        android:gravity="center"
+        android:text="@string/text_download_manage"
+        android:textColor="@color/gw_white"
+        android:textSize="@dimen/textsize_16px" />
+
+</RelativeLayout>

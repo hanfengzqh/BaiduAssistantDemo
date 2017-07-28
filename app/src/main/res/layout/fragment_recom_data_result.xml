@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zng.library.widget.TouchInterceptionFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_category_tabs" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/view_margin_303"
+        android:background="@color/gw_color_gray_bg" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vp_header_pager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/toolbar_translationY"
+            android:background="@drawable/recommend_app_default" />
+
+        <include
+            android:id="@+id/view_toolbar"
+            layout="@layout/title_view_toolbar" />
+
+        <include
+            android:id="@+id/rl_search"
+            layout="@layout/view_recom_search" />
+
+        <TextView
+            android:id="@+id/toolbar_translationY"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/view_margin_222"
+            android:layout_alignParentTop="true"
+            android:minHeight="@dimen/view_margin_222" />
+    </RelativeLayout>
+
+    <com.zng.library.loadmore.PageLoadLayout
+        android:id="@+id/pagerload_id"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <com.zng.library.loadmore.ObservableListView
+            android:id="@+id/listview_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="@android:color/transparent"
+            android:dividerHeight="0px"
+            android:fadingEdge="none"
+            android:overScrollMode="never"
+            android:fastScrollEnabled="false"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="true"
+            android:scrollbars="none"
+            android:smoothScrollbar="true" />
+    </com.zng.library.loadmore.PageLoadLayout>
+
+</com.zng.library.widget.TouchInterceptionFrameLayout>

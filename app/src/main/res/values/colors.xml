@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#009688</color>
+    <color name="common_dialog_btn_pressed">#c5c5c9</color>
+    <color name="gw_color_white_bg">#e7e8ec</color>
+    <color name="common_dialog_foot_text_pressed">#ffffff</color>
+    <color name="common_dialog_foot_text_normal">#333333</color>
+	<color name="gw_white">#ffffffff</color>
+	<color name="common_header_bg_color">#eeeff0</color>
+	<color name="common_blue_load_view">#ff017aff</color>
+	<color name="home_color_bg">#f8fafd</color>
+	<color name="gw_color_gray_bg">#f8fafd</color>
+	<color name="gray">#7A7A7A</color>
+	<color name="gw_oringe">#ffff7200</color>
+	<color name="tv_color_999999">#999999</color>
+	<color name="tv_color_69a1fa">#69a1fa</color>
+	<color name="color_category_tabs">#f8fafc</color>
+	<color name="color_category_line">#eeeff0</color>
+	<color name="color_app_recommend_line_vertical">#dddddd</color>
+	<color name="gw_color_progress_gray">#E8E8E8</color>
+	<color name="gw_color_progress_orange">#e87c35</color>
+	<color name="gw_color_listview_divider">#cccccc</color>
+	<color name="light_gray">#dddddd</color>
+	<color name="material_lightblue_500">#ff03a9f4</color>
+    <color name="material_lightblue_700">#ff0288d1</color>
+	<color name="edit_gray">#757575</color>
+	<color name="gw_color_title_text">#191919</color>
+	<color name="tv_color_e3e5e7">#e3e5e7</color>
+	<color name="tv_color_e3e5e5">#e3e5e5</color>
+	<color name="common_background_00d1ba">#00d1ba</color>
+	<color name="tv_color_eeefee">#eeefee</color>
+	<color name="back_color_200000">#20000000</color>
+	<color name="back_color_500000">#50000000</color>
+	<!-- 首页滑动tab颜色 -->
+    <color name="gw_pagersliding_background_tab_pressed">#66191919</color>
+    <color name="gw_pagersliding_text_normal_color">#757575</color>
+    <color name="gw_pagersliding_text_selected_color">#F27637</color>
+    <color name="default_indicator_color">#ff9600</color>
+    <color name="default_tab_underline_color">#a3a3a3</color>
+	
+    
+    <color name="detail_download_container_bg">#4a4a4a</color>
+    <color name="tv_color_f3f9f9">#f3f9f9</color>
+    
+    <!-- 多边形加载进度条颜色 -->
+    <color name="triangle">#aa72d572</color>
+    <color name="circle">#aa738ffe</color>
+    <color name="rect">#aae84e40</color>
+    <color name="view_bg">#00000000</color>
+    <color name="shadow">#25808080</color>
+    <color name="dialog_bg">#f5f5f5</color>
+    <color name="common_dividing_line">#d1d1d1</color>
+    
+</resources> 
