@@ -1,4 +1,4 @@
-#Fri Jul 28 11:03:23 CST 2017
+#Mon Jul 31 17:02:32 CST 2017
 base.0=E\:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=E\:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

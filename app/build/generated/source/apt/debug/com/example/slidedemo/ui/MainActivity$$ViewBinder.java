@@ -12,7 +12,7 @@ public class MainActivity$$ViewBinder<T extends com.example.slidedemo.ui.MainAct
     target.mContainer = finder.castView(view, 2131427396, "field 'mContainer'");
     view = finder.findRequiredView(source, 2131427398, "field 'mToolbarView'");
     target.mToolbarView = finder.castView(view, 2131427398, "field 'mToolbarView'");
-    view = finder.findRequiredView(source, 2131427413, "field 'toolbar'");
+    view = finder.findRequiredView(source, 2131427414, "field 'toolbar'");
     target.toolbar = view;
     view = finder.findRequiredView(source, 2131427399, "field 'view_toolbar'");
     target.view_toolbar = finder.castView(view, 2131427399, "field 'view_toolbar'");
@@ -22,12 +22,14 @@ public class MainActivity$$ViewBinder<T extends com.example.slidedemo.ui.MainAct
     target.mListView = finder.castView(view, 2131427402, "field 'mListView'");
     view = finder.findRequiredView(source, 2131427400, "field 'rl_search'");
     target.rl_search = finder.castView(view, 2131427400, "field 'rl_search'");
-    view = finder.findRequiredView(source, 2131427427, "field 'home_title_search'");
-    target.home_title_search = finder.castView(view, 2131427427, "field 'home_title_search'");
-    view = finder.findRequiredView(source, 2131427414, "field 'title_message'");
-    target.title_message = finder.castView(view, 2131427414, "field 'title_message'");
-    view = finder.findRequiredView(source, 2131427415, "field 'title_download_manage'");
-    target.title_download_manage = finder.castView(view, 2131427415, "field 'title_download_manage'");
+    view = finder.findRequiredView(source, 2131427428, "field 'home_title_search'");
+    target.home_title_search = finder.castView(view, 2131427428, "field 'home_title_search'");
+    view = finder.findRequiredView(source, 2131427415, "field 'title_message'");
+    target.title_message = finder.castView(view, 2131427415, "field 'title_message'");
+    view = finder.findRequiredView(source, 2131427416, "field 'title_download_manage'");
+    target.title_download_manage = finder.castView(view, 2131427416, "field 'title_download_manage'");
+    view = finder.findRequiredView(source, 2131427403, "field 'mAnimationView'");
+    target.mAnimationView = finder.castView(view, 2131427403, "field 'mAnimationView'");
   }
 
   @Override public void unbind(T target) {
@@ -41,5 +43,6 @@ public class MainActivity$$ViewBinder<T extends com.example.slidedemo.ui.MainAct
     target.home_title_search = null;
     target.title_message = null;
     target.title_download_manage = null;
+    target.mAnimationView = null;
   }
 }

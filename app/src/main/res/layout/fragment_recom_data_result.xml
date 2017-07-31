@@ -3,12 +3,12 @@
     android:id="@+id/container"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/color_category_tabs" >
+    android:background="@color/color_category_tabs">
 
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="@dimen/view_margin_303"
-        android:background="@color/gw_color_gray_bg" >
+        android:background="@color/gw_color_gray_bg">
 
         <android.support.v4.view.ViewPager
             android:id="@+id/vp_header_pager"
@@ -36,7 +36,7 @@
     <com.zng.library.loadmore.PageLoadLayout
         android:id="@+id/pagerload_id"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" >
+        android:layout_height="match_parent">
 
         <com.zng.library.loadmore.ObservableListView
             android:id="@+id/listview_content"
@@ -45,12 +45,18 @@
             android:divider="@android:color/transparent"
             android:dividerHeight="0px"
             android:fadingEdge="none"
-            android:overScrollMode="never"
             android:fastScrollEnabled="false"
             android:footerDividersEnabled="false"
             android:headerDividersEnabled="true"
+            android:overScrollMode="never"
             android:scrollbars="none"
             android:smoothScrollbar="true" />
     </com.zng.library.loadmore.PageLoadLayout>
+
+    <AbsoluteLayout
+        android:id="@+id/animation_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:maxLines="1"></AbsoluteLayout>
 
 </com.zng.library.widget.TouchInterceptionFrameLayout>

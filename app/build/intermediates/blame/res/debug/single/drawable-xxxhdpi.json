@@ -48,12 +48,12 @@
         "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\drawable-xxxhdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
         "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\drawable-xxxhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\zqh\\.android\\build-cache\\ab405cbdcace3326b4798e379ad05945aa440587\\output\\res\\drawable-xxxhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
         "merged": "E:\\zhinengguo\\AndroidStudio\\BaiduAssistantDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\abc_btn_check_to_on_mtrl_000.png",
